@@ -22,6 +22,7 @@ For exploitation techniques in general (UNIX and Linux focused):
 
 1. Start with Hacking The Art of Exploitation Chapter 2 (0x200 Programming), beginning from section 5 (0x250 Getting your Hands Dirty), Chapter 3 (0x300 Exploitation), and Chapter 5 (0x500 Shellcode).  
 2. Move to A Guide to Kernel Exploitation Attacking the Core and read Part 1 A Journey to Kernel Land. 
+3. Do CTF practice exercises concerning privilege escalation and memory corruption (this is not really a third step, just do them while you read).
 
 ## Resources
 
