@@ -60,6 +60,7 @@ For exploitation techniques in general (UNIX and Linux focused):
 
 ### Book Resources
 - Modern Cryptanalysis: Techniques for Advanced Code Breaking [ISBN: 978-0-470-13593-8]
+- Modern Operating Systems // The 4th edition (2014) is up to date, but the 3rd edition is more accessible
 
 ### Reddit
 - /r/netsec
