@@ -3,10 +3,12 @@
 
 ## Repo Content
 - A Guide to Kernel Exploitation Attacking the Core
+- Computer Networking A Top-Down Approach
 - Fuzzing Brute Force Vulnerability Discovery
 - Gray Hat Python - Python Programming for Hackers and Reverse Engineers (2009)
 - Hacking - The Art of Exploitation, 2nd Ed.
 - Metasploit, Penetration Testers Guide
+- Modern Operating Systems, 3rd Ed.
 - Reversing - Secrets Of Reverse Engineering (2005)
 - The Art of Assembly Language, 2nd Ed.
 - The Mac Hacker's Handbook
@@ -60,7 +62,7 @@ For exploitation techniques in general (UNIX and Linux focused):
 
 ### Book Resources
 - Modern Cryptanalysis: Techniques for Advanced Code Breaking [ISBN: 978-0-470-13593-8]
-- Modern Operating Systems // The 4th edition (2014) is up to date, but the 3rd edition is more accessible
+- Modern Operating Systems, 4th Ed. [ISBN: 0-13-359162-X]
 
 ### Reddit
 - /r/netsec
