@@ -2,22 +2,16 @@
 ============
 
 ## Repo Content
----------------
 
 ## Where to start
------------------
 
 ## Resources
-------------
 
 ### Internet Resources
-----------------------
 
 ### Book Resources
-------------------
 
 ### Reddit
-----------
 - r/netsec
 - /r/reverseeningeering
 - /r/securityctf
