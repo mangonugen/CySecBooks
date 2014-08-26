@@ -39,6 +39,7 @@ For exploitation techniques in general (UNIX and Linux focused):
 - [Binary Auditing](http://www.binary-auditing.com/)
 
 ### Internet Resources
+- [Mac Developer Library - Memory Management Programming Guide for Core Foundation - Byte Ordering](https://developer.apple.com/library/mac/documentation/corefoundation/Conceptual/CFMemoryMgmt/Concepts/ByteOrdering.html)
 - [Rogunix Docs](http://www.rogunix.com/docs/)
 - [CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
 - [Aleph One's Smashing the Stack for Fun and Profit](http://insecure.org/stf/smashstack.html)
